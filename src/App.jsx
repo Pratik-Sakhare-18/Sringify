@@ -11,7 +11,7 @@ const App = () => {
 
   const checstring = () => {
     if (rightstr == leftstr) {
-      setMsg("Sring Are Same");
+      setMsg("String Are Same");
     }
     else {
       setMsg("String Are Not Same");
